@@ -24,6 +24,12 @@ about **$0.006 per minute** — an hour of talking is roughly 36 cents —
 and formatting a message costs a fraction of a cent. No middleman, no
 markup, no cap. Your key, your keyboard, your money stays yours.
 
+## Open source — coming soon
+
+The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard will be open source soon, and the files will be uploaded right here.
+
+⭐ **Star and watch this repo, subscribe for updates, and stay tuned.**
+
 ## What it does
 
 - **Voice typing that reads like writing.** Dictate and the text comes
@@ -69,8 +75,7 @@ markup, no cap. Your key, your keyboard, your money stays yours.
 
 ## Notes
 
-- This repository is the public download page. The source code is not
-  published here.
+- This repository is the public download page. The source code is not published here yet — open source is coming soon (see above). Until then, this page is the public home for releases.
 - Android may warn that the app comes from outside Google Play — that
   is expected for direct APK installs. The APK is signed with the
   developer's release key, and every version is an update of the same
