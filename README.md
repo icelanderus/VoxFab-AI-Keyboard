@@ -54,6 +54,15 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
 - **It learns your words.** Personal dictionary from what you type, plus
   context-aware suggestions and typo corrections.
 
+## Screenshots
+
+Real captures of the app:
+
+<p>
+<img src="assets/real-appearance.png" width="330" alt="Appearance settings">
+<img src="assets/real-settings.png" width="330" alt="Settings home">
+</p>
+
 ## Install
 
 1. Download the APK from the link above.
