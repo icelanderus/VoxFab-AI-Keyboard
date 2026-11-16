@@ -12,7 +12,6 @@ No "free trial". No 20-words-a-day limits.**
 
 Current version: **1.42.0**
 
-![Demo: dictate, get clean text, open settings](assets/demo.gif)
 
 ## Why your own API key?
 
@@ -48,16 +47,6 @@ markup, no cap. Your key, your keyboard, your money stays yours.
   silence.
 - **It learns your words.** Personal dictionary from what you type, plus
   context-aware suggestions and typo corrections.
-
-## Screenshots
-
-<p>
-<img src="assets/shot1-voice.png" width="150" alt="Voice typing">
-<img src="assets/shot2-gif.png" width="150" alt="GIF search">
-<img src="assets/shot3-themes.png" width="150" alt="Themes">
-<img src="assets/shot4-languages.png" width="150" alt="Languages">
-<img src="assets/shot5-settings.png" width="150" alt="Settings">
-</p>
 
 ## Install
 
