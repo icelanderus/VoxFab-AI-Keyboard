@@ -56,11 +56,19 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
 
 ## Screenshots
 
-Real captures of the app:
+Real captures of the app, taken on a Galaxy S26 Ultra:
 
 <p>
-<img src="assets/real-appearance.png" width="330" alt="Appearance settings">
-<img src="assets/real-settings.png" width="330" alt="Settings home">
+<img src="assets/card-keyboard.png" width="330" alt="Keyboard with suggestions">
+<img src="assets/card-voice.png" width="330" alt="Dictation orb">
+</p>
+<p>
+<img src="assets/card-gif.png" width="330" alt="GIF search">
+<img src="assets/card-emoji.png" width="330" alt="Emoji panel">
+</p>
+<p>
+<img src="assets/card-appearance.png" width="330" alt="Appearance themes">
+<img src="assets/card-settings.png" width="330" alt="Settings home">
 </p>
 
 ## Install
