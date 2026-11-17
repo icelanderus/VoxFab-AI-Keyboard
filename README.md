@@ -10,7 +10,7 @@ No "free trial". No 20-words-a-day limits.**
 
 **[⬇ Download the latest APK](https://github.com/icelanderus/VoxFab-AI-Keyboard/releases/latest/download/VoxFabKeyboard.apk)**
 
-Current version: **1.42.0**
+Current version: **1.43.0**
 
 
 ## Why your own API key?
