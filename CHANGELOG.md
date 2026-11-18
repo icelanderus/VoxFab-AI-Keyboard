@@ -1,5 +1,44 @@
 # Changelog
 
+## 1.53.0 — Nov 18, 2026
+
+- **Emoji search, fixed.** The emoji panel now sits above the keys,
+  exactly like the GIF panel: tap Search, type, and the results filter
+  live in a row over the keyboard. Enter expands them full-height.
+- **Update badge on Settings.** The green Update tab in the toolbar is
+  gone. When a newer version is ready, a small dark-green UPDATE badge
+  appears on the Settings icon instead — and Settings opens with the
+  update banner and its Download button right at the top.
+
+## 1.51.0 — Nov 18, 2026
+
+- **Emoji search.** A search field inside the emoji panel, just like
+  GIF search — type and the grid filters.
+- **Emoji suggestions that actually work.** The suggestion strip now
+  uses the official Unicode CLDR keyword database in English, Russian
+  and Hebrew (4,000+ emoji): type "piano" or «пианино» and 🎹 is the
+  first suggestion, every time.
+
+## 1.50.0 — Nov 18, 2026
+
+- **New launcher icon.** A clean, hand-drawn-style keyboard with a
+  microphone — flat and isometric, no glossy AI look.
+
+## 1.49.0 — Nov 18, 2026
+
+- **Enter is Enter.** The Enter key now always inserts a newline. It
+  never triggers Send in any app, ever.
+
+## 1.48.0 — Nov 18, 2026
+
+- **Clipboard chip.** Copy anything — a code, an OTP, a snippet — and
+  it shows up as a chip in the suggestion strip. One tap pastes it; the
+  ✕ dismisses that copy for good. No digging through clipboard history.
+- **Dictation keeps the screen awake.** While you dictate, the screen
+  no longer falls asleep mid-sentence — and a finished dictation is
+  never thrown away if the keyboard closes during transcription.
+
+
 ## 1.47.0 — Nov 17, 2026
 
 - **Version footer.** The Settings home now shows the installed version
