@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.44.0 — Nov 17, 2026
+
+Typing responsiveness, rebuilt:
+
+- **Keys type on touch-down.** A letter now lands the moment your finger
+  touches the key — iPhone-style — instead of waiting for the release.
+  Lifting your finger slightly off the key, or racing to the next one,
+  can no longer swallow a tap, so fast typing stops dropping letters.
+- **Bigger, smarter hit targets.** Taps that land in the gaps between
+  keys are no longer lost: they go to the nearest key, and the key the
+  dictionary predicts you want next gets a wider invisible target —
+  the same dynamic hit-area trick the iPhone keyboard uses.
+- **Snappier suggestions.** The suggestion strip no longer recalculates
+  on every single keystroke, so it can't slow your typing down.
+
 ## 1.43.0 — Nov 16, 2026
 
 Key press effects, rebuilt:
