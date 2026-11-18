@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.47.0 — Nov 17, 2026
+
+- **Version footer.** The Settings home now shows the installed version
+  at the bottom.
+- **Check for updates.** Setup gets a manual Check for updates button —
+  no need to wait for the automatic check.
+
+## 1.46.0 — Nov 17, 2026
+
+In-app updates:
+
+- **Automatic update checks.** The app quietly asks GitHub for the
+  latest release every few hours.
+- **Green Update tab.** When a newer version is ready, a green Update
+  tab with a badge appears in the keyboard toolbar and at the top of
+  Settings.
+- **Update screen with Download.** Tap the tab to read what's new and
+  download the new version from GitHub right in the app.
+
+## 1.45.0 — Nov 17, 2026
+
+- **Get an OpenAI key in one tap.** Settings → Voice Typing links
+  straight to OpenAI's API key page — no key yet, no hunting for it.
+- **Green microphone status.** "Microphone access: allowed" now shows
+  with a green dot and green text when access is granted.
+
 ## 1.44.0 — Nov 17, 2026
 
 Typing responsiveness, rebuilt:
