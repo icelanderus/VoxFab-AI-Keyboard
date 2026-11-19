@@ -10,7 +10,7 @@ No "free trial". No 20-words-a-day limits.**
 
 **[⬇ Download the latest APK](https://github.com/icelanderus/VoxFab-AI-Keyboard/releases/latest/download/VoxFabKeyboard.apk)**
 
-Current version: **1.53.0**
+Current version: **1.60.0**
 
 
 ## Why your own API key?
@@ -32,10 +32,10 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
 
 ## What it does
 
-- **Voice typing that reads like writing.** Dictate and the text comes
-  out formatted — sentence breaks, capital letters, question marks where
-  you asked something. Your exact words are never changed, punctuation
-  only.
+- **Voice typing that reads like writing.** Dictate and an AI cleanup
+  pass turns raw speech into written text: fillers, stutters and false
+  starts removed, broken sentences fixed, spoken lists turned into
+  numbered lists. Your voice, your language and your words stay yours.
 - **Fix & Continue.** One tap fixes the grammar of what you typed;
   another continues your text in the same style (gpt-4o-mini, your key).
 - **Keyless GIF search.** Search and send GIFs right from the keyboard —
@@ -43,6 +43,8 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
 - **Clipboard with a memory.** Everything you copy is kept in a history
   list (up to 50), not just the last item. Things that look like keys or
   passwords are never stored.
+- **Voice history, one tap away.** The Clipboard panel has a second tab
+  with every dictation you have made — tap one to paste it back.
 - **Languages on demand.** English is built in. Russian and Hebrew come
   with dictionaries inside the app; Spanish, German, French, Italian,
   Portuguese, Turkish, Polish, Greek, Dutch, Swedish, Ukrainian and more

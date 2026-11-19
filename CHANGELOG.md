@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.60.0 — Nov 19, 2026
+
+- **Enter that follows the app.** The Enter key now does what the field
+  expects, Gboard-style: a newline in chats and notes, Send in
+  messengers, Search in the browser, Next/Done in forms — with the
+  matching icon on the key (return, paper plane, magnifier, arrow,
+  checkmark).
+- **Dictation cleanup.** A new AI cleanup pass for dictation (Settings
+  → Voice Typing → Smart cleanup): filler words, stutters, false starts
+  and stray asides are removed, broken sentences are fixed, and spoken
+  lists ("one… two… three…") come out as numbered lists. Your voice and
+  wording stay yours — and if a cleanup ever drifts too far from what
+  you said, the raw transcript is used instead.
+- **Voice history in the Clipboard panel.** The Clipboard panel has two
+  tabs now: Clipboard and Voice history — every dictation, one tap to
+  paste it back. No more digging through Settings.
+- **No more jumping.** The whole dictation flow — recording,
+  transcribing, back to the keys — runs at one fixed height with fades
+  between states. Transcribing keeps the orb on screen while its wave
+  settles; nothing pops and nothing resizes.
+- **One back arrow, animated panels.** Every panel (emoji, GIF,
+  clipboard) returns to the keys with the same back arrow, panels
+  crossfade instead of popping, clipboard tabs slide with direction,
+  and dictation opens with a short distortion intro on the orb.
+- **Mic sounds: redesigned + system sounds.** All mic on/off sounds
+  were redesigned, with two new styles (Droplet, Feather). You can also
+  switch the mic sounds to your phone's own notification sounds,
+  picking one for mic-on and one for mic-off (Settings → Voice Typing →
+  Microphone sound → System sounds).
+
 ## 1.53.0 — Nov 18, 2026
 
 - **Emoji search, fixed.** The emoji panel now sits above the keys,
