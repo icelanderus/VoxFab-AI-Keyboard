@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.61.0 — Nov 19, 2026
+
+- **Mic sounds, rewritten low and muted.** Every built-in mic on/off
+  sound was regenerated an octave lower with a heavy low-pass filter —
+  soft, dull tones instead of bright beeps (the spectral center of the
+  sounds dropped from roughly 800–1900 Hz to roughly 300–450 Hz).
+- **Mic sound volume.** Settings → Voice Typing → Microphone sound now
+  has its own volume slider for the mic sounds — for the built-in
+  styles and for system notification sounds alike — independent of the
+  typing volume.
+
 ## 1.60.0 — Nov 19, 2026
 
 - **Enter that follows the app.** The Enter key now does what the field
