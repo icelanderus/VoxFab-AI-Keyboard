@@ -10,7 +10,7 @@ No "free trial". No 20-words-a-day limits.**
 
 **[⬇ Download the latest APK](https://github.com/icelanderus/VoxFab-AI-Keyboard/releases/latest/download/VoxFabKeyboard.apk)**
 
-Current version: **1.66.0**
+Current version: **1.69.0**
 
 
 ## Why your own API key?
@@ -36,6 +36,10 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
   pass turns raw speech into written text: fillers, stutters and false
   starts removed, broken sentences fixed, spoken lists turned into
   numbered lists. Your voice, your language and your words stay yours.
+  By default dictation is inline, Gboard-style: the keys stay, a live
+  waveform replaces the toolbar, X cancels and the check mark
+  transcribes. Full-screen dictation animations (orb, wave, sonar,
+  equalizer, blob) are still there in Settings.
 - **Fix.** One tap fixes the grammar and spelling of what you typed
   (gpt-4o-mini, your key).
 - **Keyless GIF search.** Search and send GIFs right from the keyboard —

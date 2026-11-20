@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.69.0 — Nov 20, 2026
+
+- **Inline dictation is here — and it is the new default.** Tap the
+  mic and the keys stay right where they are: a live waveform takes
+  the toolbar's place, with an X on the left (cancel) and a check mark
+  on the right (done talking). The check mark swaps the wave for the
+  spinner and "Transcribing" in the same strip, the text lands in the
+  field, and the toolbar fades back. No screen switch, no resize. If
+  you had already picked a full-screen style yourself, your pick is
+  untouched.
+- **Full-screen styles are now a choice, not the only way.** Orb,
+  Wave, Sonar, Equalizer and Blob still live in Settings -> Voice
+  Typing -> Dictation animation.
+- **"Transcribing" moved up.** On the full-screen dictation screen
+  the spinner and label now sit in a strip above the animation, right
+  under the input field, instead of at the very bottom where they
+  were easy to miss.
+- **The Wave Bar lost its dot.** The decorative dot in the middle of
+  the waveform is gone, in both the inline strip and the full-screen
+  Wave style.
+
 ## 1.66.0 — Nov 20, 2026
 
 - **Continue is gone.** The Continue button was removed from the
