@@ -10,7 +10,7 @@ No "free trial". No 20-words-a-day limits.**
 
 **[⬇ Download the latest APK](https://github.com/icelanderus/VoxFab-AI-Keyboard/releases/latest/download/VoxFabKeyboard.apk)**
 
-Current version: **1.61.0**
+Current version: **1.66.0**
 
 
 ## Why your own API key?
@@ -36,8 +36,8 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
   pass turns raw speech into written text: fillers, stutters and false
   starts removed, broken sentences fixed, spoken lists turned into
   numbered lists. Your voice, your language and your words stay yours.
-- **Fix & Continue.** One tap fixes the grammar of what you typed;
-  another continues your text in the same style (gpt-4o-mini, your key).
+- **Fix.** One tap fixes the grammar and spelling of what you typed
+  (gpt-4o-mini, your key).
 - **Keyless GIF search.** Search and send GIFs right from the keyboard —
   no API key, no signup.
 - **Clipboard with a memory.** Everything you copy is kept in a history
@@ -45,10 +45,11 @@ The source code isn't in this repo yet — but it's coming. VoxFab AI Keyboard w
   passwords are never stored.
 - **Voice history, one tap away.** The Clipboard panel has a second tab
   with every dictation you have made — tap one to paste it back.
-- **Languages on demand.** English is built in. Russian and Hebrew come
-  with dictionaries inside the app; Spanish, German, French, Italian,
-  Portuguese, Turkish, Polish, Greek, Dutch, Swedish, Ukrainian and more
-  download their dictionary once (~1 MB) and then work fully offline.
+- **Languages on demand.** English is built in — and it is the only
+  built-in language. Every other language (Russian, Hebrew, Spanish,
+  German, French, Italian, Portuguese, Turkish, Polish, Greek, Dutch,
+  Swedish, Ukrainian and more) downloads its dictionary once (~1 MB)
+  when you add it, and then works fully offline.
 - **Make it yours.** Accent theme packs, a photo background with blur
   and dim, key text color, optional number row, symbols on letter keys
   (long-press), key press effects, haptics and key sounds — or full

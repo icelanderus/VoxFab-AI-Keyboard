@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.66.0 — Nov 20, 2026
+
+- **Continue is gone.** The Continue button was removed from the
+  toolbar — it suggested a continuation in the suggestion strip
+  instead of typing it, which mostly confused people. Fix stays.
+- **English is the only built-in language.** Russian and Hebrew are
+  optional downloads now, exactly like every other language: their
+  bundled dictionaries and context tables (~3.5 MB of data) no longer
+  ship inside the app, and a fresh install starts with English only.
+  If Russian or Hebrew were already enabled on your phone, their
+  dictionaries download automatically in the background once — no
+  action needed.
+- **A NEW badge you can actually read.** The tiny UPDATE badge on the
+  Settings icon is now a big green NEW pill sitting over the icon.
+- **Panel headers, fixed.** The back arrow in the emoji / GIF /
+  clipboard panels is a proper bold arrow (it used to be a thin text
+  glyph), and the emoji panel's delete key is a clean outline icon
+  instead of a stark white blob.
+- **The letter fades with the key.** When a pressed key's glow melts
+  back, its letter now fades along with the fill instead of popping
+  back in one frame.
+
 ## 1.61.0 — Nov 19, 2026
 
 - **Mic sounds, rewritten low and muted.** Every built-in mic on/off
